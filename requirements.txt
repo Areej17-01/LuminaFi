@@ -1,0 +1,13 @@
+streamlit>=1.28.0
+yfinance>=0.2.18
+pandas>=2.0.0
+plotly>=5.15.0
+requests>=2.31.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+together>=0.2.0
+websockets>=11.0.0
+asyncio-mqtt>=0.16.0
+aiohttp>=3.9.0
+websocket-client>=1.6.0
+python-dotenv 
