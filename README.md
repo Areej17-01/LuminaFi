@@ -2,6 +2,12 @@
 
 A comprehensive Streamlit application that provides real-time financial analysis with AI-powered insights, interactive charts, and live news updates.
 
+## Access the App Online
+
+If you want to use the LuminaFi app directly in your browser, visit the Hugging Face Space:
+
+👉 [LuminaFi on Hugging Face Spaces](https://huggingface.co/spaces/AreejMehboob17/LuminaFi)
+
 ## ✨ Features
 
 ### 📊 Real-Time Financial Data
@@ -147,3 +153,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## ⚠️ Disclaimer
 
 This application is for educational and informational purposes only. It does not constitute financial advice. Always consult with a qualified financial advisor before making investment decisions.
+
+
+
