@@ -23,7 +23,7 @@ If you want to use the LuminaFi app directly in your browser, visit the Hugging 
 - **Fallback Support**: Text-only analysis when vision processing fails
 
 ### 📰 Live Financial News
-- **DuckDuckGo Integration**: Real-time financial news search
+- **Yfinance Search Integration**: Real-time financial news search
 - **Clickable Links**: Direct links to full news articles
 - **Multiple Search Strategies**: Financial news, stock market news, investment news, earnings reports
 - **Animated News Ticker**: Real-time news updates display
